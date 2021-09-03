@@ -11,12 +11,7 @@ namespace MyProject.Models
 {
     public class User
     {
-        //public User()
-        //{
-        //    User user = new User();
-        //    user.Role = Role.User;
-
-        //}
+       
        
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
