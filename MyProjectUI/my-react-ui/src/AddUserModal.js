@@ -67,7 +67,7 @@ centered
 >
     <Modal.Header >
         <Modal.Title id="contained-modal-title-vcenter">
-            Add Employee
+            Add User
         </Modal.Title>
     </Modal.Header>
     <Modal.Body>
