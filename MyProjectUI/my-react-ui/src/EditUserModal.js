@@ -74,7 +74,7 @@ centered
             <Col sm={6}>
         
                 <Form.Group controlId="Id">
-                        <Form.Label>EmployeeId</Form.Label>
+                        <Form.Label>User Id</Form.Label>
                         <Form.Control type="text" name="Id" required 
                         placeholder="Id"
                         disabled
